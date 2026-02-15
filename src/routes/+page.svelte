@@ -14,7 +14,7 @@
     <div class="link-wrapper">
         <a href="https://github.com/Yashu-Maurya" class="link">Github</a>
         <img src={heroimg} alt="" class="hero-image">
-        <a href="https://linkedin.com/" class="link">Linkedin</a>
+        <a href="https://www.linkedin.com/in/yashu-maurya-42a48621a/" class="link">Linkedin</a>
     </div>
 </div>
 <div class="separator"></div>

@@ -10,7 +10,7 @@
             Engineering Student • Embedded Systems • Machine Learning • Mathematics
         </p>
     </div>
-    <a href="yashuff1@gmail.com" class="email">yashuff1@gmail.com</a>
+    <a href="mailto:yashuff1@gmail.com" class="email">yashuff1@gmail.com</a>
     <div class="link-wrapper">
         <a href="https://github.com/Yashu-Maurya" class="link">Github</a>
         <img src={heroimg} alt="" class="hero-image">
